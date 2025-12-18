@@ -1,0 +1,22 @@
+# Ignore Terraform / OpenTofu state and working files
+*.tfstate
+*.tfstate.backup
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+
+# Plans and backups
+*.tfplan
+plan01
+tfplan
+
+# Misc
+crash.log
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# CLI config
+.terraformrc
+terraform.rc
