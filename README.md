@@ -1,3 +1,3 @@
 # Summary
 
-A simple OpenTofu configuration for demonstration deploying to Azure
+A simple OpenTofu configuration for demonstrating deployment to Azure
